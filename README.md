@@ -13,4 +13,4 @@ FAKUKULAB 소개 사이트(`https://fakukulab.com`)입니다.
 - BizNote Desk: https://biznote-desk.fakukulab.com/
 - SumPal 셈벗: https://sumpal.fakukulab.com/
 - FAKUKU Mail for Mac: https://mail.fakukulab.com/
-- FAKUKU Mail iOS: https://fakukulab.com/fakuku-mail-ios/
+- FAKUKU Mail (iPhone·iPad): https://fakukulab.com/fakuku-mail-ios/
